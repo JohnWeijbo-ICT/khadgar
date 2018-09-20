@@ -6,7 +6,7 @@ All responsen will have the form
 
 ```json
 {
-    Kaas: Waarom,
+    "Kaas:" "Waarom",
     Drink: Lekker
 }
 ```
