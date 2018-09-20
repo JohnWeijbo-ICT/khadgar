@@ -6,8 +6,8 @@ All responsen will have the form
 
 ```json
 {
-    "Kaas:" "Waarom",
-    Drink: Lekker
+    "Kaas": "Waarom",
+    "Drink": "Lekker"
 }
 ```
 ### List all devices
